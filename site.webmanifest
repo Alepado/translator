@@ -1,0 +1,15 @@
+{
+    "short_name": "Traduttore",
+    "name": "Traduttore",
+    "icons":
+    [
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+    "background_color": "#f71469",
+    "theme_color": "#f71469",
+    "display": "fullscreen"
+}
